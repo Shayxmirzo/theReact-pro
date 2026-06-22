@@ -5,7 +5,7 @@ function Header() {
     <div className="flex flex-col gap-[120px]">
     <div className="container mx-auto flex justify-center">
         <div className="p-3 max-w-[1097px] w-full max-h-[119px] flex justify-between items-center">
-            <div className="max-w-[206px] max-h-[78px]"><img className="w-full h-full" src="/public/Rectangle 4.png" alt="" /></div>
+            <div className="max-w-[206px] max-h-[78px]"><img className="w-full h-full" src="/Rectangle 4.png" alt="" /></div>
             <div className="max-w-[393px] max-h-[44px] ">
                 <ul className="hidden sm:flex gap-8 text-white">
                 <li className="font-['Graphik'] font-medium text-[16px] leading-[24px] tracking-[0.2px] text-center"><a href="#">Home</a> </li>

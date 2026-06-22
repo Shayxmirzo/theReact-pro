@@ -12,7 +12,7 @@ and Variable fonts</h1>
         </div>
         <div className="absolute bottom-0 right-0">
             <img
-  className="rounded-br-[10px]"
+  className="rounded-b-[10px]"
   src="/media-content.png"
   alt=""
 />

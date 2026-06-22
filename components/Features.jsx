@@ -18,7 +18,7 @@ freelancers who want a simple way to plan their schedule.
 </div>
         </div>
         <div className="container mx-auto flex items-center gap-[50px]">
-            <div className=""><img src="/public/Frame 19.png" alt="" /></div>
+            <div className=""><img src="/Frame 19.png" alt="" /></div>
             <div className="flex flex-col max-h-[651px] gap-[70px]">
                 <div className="max-w-[269px] flex flex-col gap-2">
 <div className="flex items-center gap-2">
@@ -35,7 +35,7 @@ freelancers who want a simple way to plan their schedule.
 </div>
     <div className="max-w-[269px] flex flex-col gap-2">
 <div className="flex items-center gap-2">
-  <img src="/public/Vector (1).png" alt="" />
+  <img src="/Vector (1).png" alt="" />
 
   <h1 class="font-graphik font-medium text-[24px] text-white leading-[30px] tracking-[0.1px]">
   Intuitive interface
@@ -49,7 +49,7 @@ freelancers who want a simple way to plan their schedule.
 </div>
     <div className="max-w-[269px] flex flex-col gap-2">
 <div className="flex items-center gap-2">
-  <img src="/public/Vector (2).png" alt="" />
+  <img src="/Vector (2).png" alt="" />
 
   <h1 class="font-graphik font-medium text-[24px] text-white leading-[30px] tracking-[0.1px]">
   Or with rules

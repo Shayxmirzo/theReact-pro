@@ -35,7 +35,7 @@ function Contents() {
 
   <div class="mx-auto mt-12 max-w-md">
     <img 
-      src="/public/Macbook Pro.png" 
+      src="/Macbook Pro.png" 
       alt="Slate dashboard showing transactions mockup" 
       class="h-auto w-full max-h-80 object-contain"
     />
@@ -61,7 +61,7 @@ you identify .
 
   <div class="mx-auto mt-12 max-w-md">
     <img 
-      src="/public/Boards Notifications.png" 
+      src="/Boards Notifications.png" 
       class="h-auto w-full max-h-80 "
     />
   </div>

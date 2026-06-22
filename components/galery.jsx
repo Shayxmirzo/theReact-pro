@@ -19,15 +19,15 @@ It's only a keystroke away.
         </div>
         <div className="flex flex-col gap-[40px] items-center justify-center">
             <div className="max-w-[999px] max-h-[285px] flex gap-[30px]">
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1.png" alt="" />
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (1).png" alt="" />
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (2).png" alt="" />
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (3).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1.png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (1).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (2).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (3).png" alt="" />
             </div>
             <div className=" flex gap-[30px] max-w-[1087px] max-h-[285px]">
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (6).png" alt="" />
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (4).png" alt="" />
-                <img className="h-full rounded-[10px]" src="/public/Rectangle 1 (5).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (6).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (4).png" alt="" />
+                <img className="h-full rounded-[10px]" src="/Rectangle 1 (5).png" alt="" />
             </div>
         </div>
         <div className="flex items-center justify-center"><button className="border border-[white] py-3 px-7 text-white font-bold">See more</button></div>

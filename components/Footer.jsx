@@ -40,7 +40,7 @@ function Footer() {
     <div class="flex items-center gap-4">
       
       <img 
-        src="/public/bx_bx-map.png" 
+        src="/bx_bx-map.png" 
         alt="" 
         class=""
       />
@@ -53,7 +53,7 @@ function Footer() {
     <div class="flex items-center gap-4">
     
       <img 
-        src="/public/ic_baseline-phone-android.png" 
+        src="/ic_baseline-phone-android.png" 
         alt="" 
         class=""
       />
