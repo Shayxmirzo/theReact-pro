@@ -16,7 +16,7 @@ function Testimonials() {
 <div class="mx-auto max-w-[430px] rounded-xl  p-8 border border-white">
   <div class="flex items-center gap-4">
     <img 
-      src="/public/avatar.png" 
+      src="/avatar.png" 
       alt="" 
       class="max-w-12 max-h-12 rounded-full object-cover"
     />
@@ -37,7 +37,7 @@ function Testimonials() {
  <div class="mx-auto max-w-[430px] rounded-xl  p-8 border border-white">
   <div class="flex items-center gap-4">
     <img 
-      src="/public/avatar (1).png" 
+      src="/avatar (1).png" 
       alt="" 
       class="max-w-12 max-h-12 rounded-full object-cover"
     />
@@ -63,7 +63,7 @@ goal for the month and year.
  <div class="mx-auto max-w-[430px] rounded-xl  p-8 border border-white">
   <div class="flex items-center gap-4">
     <img 
-      src="/public/avatar (2).png" 
+      src="/avatar (2).png" 
       alt="" 
       class="max-w-12 max-h-12 rounded-full object-cover"
     />
@@ -84,7 +84,7 @@ goal for the month and year.
  <div class="mx-auto max-w-[430px] rounded-xl  p-8 border border-white">
   <div class="flex items-center gap-4">
     <img 
-      src="/public/avatar (3).png" 
+      src="/avatar (3).png" 
       alt="" 
       class="max-w-12 max-h-12 rounded-full object-cover"
     />
