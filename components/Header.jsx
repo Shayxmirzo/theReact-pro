@@ -13,7 +13,7 @@ function Header() {
                 <li className="font-['Graphik'] font-medium text-[16px] leading-[24px] tracking-[0.2px] text-center"><a href="#">About</a></li>
                 <li className="font-['Graphik'] font-medium text-[16px] leading-[24px] tracking-[0.2px] text-center"><a href="#">Contact</a></li>
                 </ul>
-                <img className="max-w-[44px] max-h-[44px]" src="/public/PngItem_6342297.png" alt="" />
+                <img className="max-w-[44px] max-h-[44px] hidden" src="/public/PngItem_6342297.png" alt="" />
                 </div>
             <div className="max-w-[139px] max-h-[52px]"><button className="border border-[white] py-2 px-6 text-[white]">Login</button></div>  
         </div>
